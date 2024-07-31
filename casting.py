@@ -1,0 +1,16 @@
+print('\nCasting Dalam python\n')
+print('Casting Ke Int')
+x=int(1)
+y=int(2.43)
+z=int('3')
+print(x,'\t',y,'\t',z)
+print('\ncasting ke float')
+a=float(1)
+b=float('3')
+print(a,'\t',b)
+print('\nconvert ke String')
+f=str(3)
+g=str(4.56)
+print(f,'\t',g)
+
+
