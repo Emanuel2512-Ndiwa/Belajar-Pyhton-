@@ -1,4 +1,4 @@
-#python
+# python
 perjalanan latihan bahasa python
 
 # 💻 Tech Stack:
